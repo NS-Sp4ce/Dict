@@ -1,4 +1,4 @@
-³§ÉÌ	ĞÍºÅ	°æ±¾ºÅ	Username	Password
+å‚å•†	å‹å·	ç‰ˆæœ¬å·	Username	Password
 3Com	-	1.25	root	letmein
 3Com	Super Stack 2 Switch	Any	manager	manager
 3Com	Switch 3000/3300	-	manager	manager
